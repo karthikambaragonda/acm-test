@@ -46,9 +46,10 @@ function header() {
             enter: 'ease-out',
             exit: 'ease-in-out'
           }}>
-          <Col xs={7} className="fw-bold mt-lg-5 mt-sm-3 mt-md-5 header" >ACM STUDENT CHAPTER - SRU
-        </Col>
-      </Zoom>
+          <Col xs={12} className="d-flex justify-content-center fw-bold mt-lg-1 mt-sm-3 mt-md-5 fs-1 header text-center">ACM SRU STUDENT CHAPTER</Col>
+          
+        </Zoom>
+        <Col xs={12} className="d-flex justify-content-center fw-bold mt-lg-1 mt-sm-3 mt-md-5  header1 text-center">Association&nbsp;for&nbsp;Computing&nbsp;Machinery</Col>
         </Row>
       </Container>
     
