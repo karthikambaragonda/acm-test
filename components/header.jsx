@@ -5,21 +5,21 @@ import Zoom from '@mui/material/Zoom';
 
 const ResponsiveImage = styled.img`
 margin-top:12px;  
-height: 120px;
+height: 1210px;
   width: 170px;
 
   @media (max-width: 576px) {
-    height: 60px;
+    height: 50px;
     width: 80px;
   }
 
   @media (min-width: 576px) and (max-width: 768px) {
-    height: 90px;
+    height: 80px;
     width: 140px;
   }
 
   @media (min-width: 768px) and (max-width: 992px) {
-    height: 110px;
+    height: 100px;
     width: 160px;
   }
 `;
