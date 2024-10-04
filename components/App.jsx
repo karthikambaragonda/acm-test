@@ -4,10 +4,10 @@ import About from "./About";
 import '../styles.css';
 function App() {
     return (
-      
         <div>
             <Header />
-            <About/>
+            <About />
+            {/* <Team/> */}
         </div>
     )
 }
